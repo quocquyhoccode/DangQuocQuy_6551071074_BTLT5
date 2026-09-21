@@ -1,0 +1,16 @@
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.exe
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.deps.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.runtimeconfig.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\bin\Debug\net10.0-windows\GhiChuNhanhBangTay.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.frmGhiChuNhanhBangtay.resources
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.csproj.GenerateResource.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.AssemblyInfoInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.AssemblyInfo.cs
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.csproj.CoreCompileInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\refint\GhiChuNhanhBangTay.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\GhiChuNhanhBangTay.genruntimeconfig.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\GhiChuNhanhBangTay\GhiChuNhanhBangTay\obj\Debug\net10.0-windows\ref\GhiChuNhanhBangTay.dll

@@ -1,0 +1,16 @@
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.exe
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.deps.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.runtimeconfig.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\bin\Debug\net10.0-windows\QuanLyBanHang.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.frmBanHang.resources
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.csproj.GenerateResource.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.AssemblyInfoInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.AssemblyInfo.cs
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\refint\QuanLyBanHang.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\QuanLyBanHang.genruntimeconfig.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\QuanLyBanHang\QuanLyBanHang\obj\Debug\net10.0-windows\ref\QuanLyBanHang.dll
