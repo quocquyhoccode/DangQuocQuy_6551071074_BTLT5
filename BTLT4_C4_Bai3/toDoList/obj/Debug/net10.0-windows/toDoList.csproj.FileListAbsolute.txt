@@ -1,0 +1,16 @@
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\bin\Debug\net10.0-windows\toDoList.exe
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\bin\Debug\net10.0-windows\toDoList.deps.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\bin\Debug\net10.0-windows\toDoList.runtimeconfig.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\bin\Debug\net10.0-windows\toDoList.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\bin\Debug\net10.0-windows\toDoList.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.frmToDoList.resources
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.csproj.GenerateResource.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.AssemblyInfoInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.AssemblyInfo.cs
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.csproj.CoreCompileInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\refint\toDoList.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\toDoList.genruntimeconfig.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\toDoList\toDoList\obj\Debug\net10.0-windows\ref\toDoList.dll
