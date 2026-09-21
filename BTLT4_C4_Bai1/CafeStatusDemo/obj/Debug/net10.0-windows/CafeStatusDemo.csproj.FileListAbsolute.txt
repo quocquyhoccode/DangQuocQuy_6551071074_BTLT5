@@ -1,0 +1,16 @@
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.exe
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.deps.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.runtimeconfig.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.frmCafe.resources
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfo.cs
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\refint\CafeStatusDemo.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.genruntimeconfig.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\ref\CafeStatusDemo.dll
